@@ -55,18 +55,4 @@ A simple Python implementation of the Caesar cipher, a classic encryption techni
   - `caesar(text, shift, encrypt=True)`: Core function to encrypt or decrypt text.
   - Main loop: Handles user input and program flow.
 
-## Contributing
 
-Contributions are welcome! To contribute:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes and commit (`git commit -m "Add feature"`).
-4. Push to your fork (`git push origin feature-branch`).
-5. Open a pull request.
-
-Please ensure your code follows PEP 8 guidelines and includes appropriate tests.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
